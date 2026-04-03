@@ -92,10 +92,3 @@ npx gh-pages -d out --dotfiles
 
 ## Live Site
 https://alextrouten42.github.io
-
----
-
-## Contact
-- Email: your.email@example.com  
-- LinkedIn: https://linkedin.com/in/yourusername  
-- GitHub: https://github.com/alextrouten42
